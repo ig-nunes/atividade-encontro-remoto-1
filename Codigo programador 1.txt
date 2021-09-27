@@ -1,3 +1,4 @@
+
 # 1 - Comandos de Configuração e inicialização:
 
  - "git config --global user.name "nome"": Configuração global do nome no git;
